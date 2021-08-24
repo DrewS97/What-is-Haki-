@@ -1,0 +1,68 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  text-align: center;
+  border: 1px;
+  border-style: solid;
+  background-color: orange;
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+h2{
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+hr {
+  border-top: 1px solid orange;
+}
+article {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2px;
+  padding: 5px;
+  width: 90%;
+}
+
+#Ryou {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  padding: 20px;
+}
+
+#gif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  padding: 20px;
+}
+
+#Armament {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  padding: 20px;
+}
+
+#Conqueror {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  padding: 20px;
+}
